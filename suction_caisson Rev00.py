@@ -1,7 +1,7 @@
 import streamlit as st
 import math
 import numpy as np
-from scipy.optimise import fsolve
+from scipy.optimize import fsolve
 
 # --- Constants ---
 G_ACCEL = 9.81
